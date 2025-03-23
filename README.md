@@ -1,4 +1,4 @@
-# [MCP URL2SNAP](https://anthropic-mcp.hashnode.dev/model-context-protocol-mcp-a-beginners-guide-to-the-future-of-ai-communication)  
+# [MCP URL2SNAP](https://anthropic-mcp.hashnode.dev/model-context-protocol-mcp-a-beginners-guide-to-the-future-of-ai-communication) 🚀🤖
 
 A lightweight **Model Context Protocol (MCP)** server that enables your LLM to capture screenshots of any specified URL and return only the access URL for the captured image. This tool simplifies the process of generating and sharing webpage snapshots, making it perfect for integrating visual capture capabilities into AI applications like Claude Desktop or automation workflows.
 
@@ -27,8 +27,7 @@ At its core, MCP is a standardized protocol designed to streamline communication
 # Watch the Demo
 Click the image below to watch a video demo of the MCP Email Verify tool in action:
 
-[![Screenshot 2025-03-23 115525](https://github.com/user-attachments/assets/9604fef7-a4f4-4f38-81f1-883752498e1c)](https://youtu.be/Xv1YA5pXdqY)
-
+[![Youtube](https://github.com/user-attachments/assets/c3c05d3d-aac8-4d6b-a8ce-6dd0aec935f2)](https://youtu.be/Xv1YA5pXdqY)
 
 ---
 
@@ -107,6 +106,9 @@ uv run server.py
       }
   }
   ```
+ ![image](https://github.com/user-attachments/assets/62db4fb4-d71a-49b5-97b8-9fbf4d4ab822)
+ 
+ ![image](https://github.com/user-attachments/assets/da77ff7c-82cd-4ef8-94fd-ce9b11cad83f)
 
 
 2. Restart Claude Desktop
