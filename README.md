@@ -2,6 +2,8 @@
 
 # [MCP URL2SNAP](https://anthropic-mcp.hashnode.dev/model-context-protocol-mcp-a-beginners-guide-to-the-future-of-ai-communication) 🚀🤖
 
+[![smithery badge](https://smithery.ai/badge/@Abhi5h3k/MCP-URL2SNAP)](https://smithery.ai/server/@Abhi5h3k/MCP-URL2SNAP)
+
 A lightweight **Model Context Protocol (MCP)** server that enables your LLM to capture screenshots of any specified URL and return only the access URL for the captured image. This tool simplifies the process of generating and sharing webpage snapshots, making it perfect for integrating visual capture capabilities into AI applications like Claude Desktop or automation workflows.
 
 ---
@@ -40,6 +42,15 @@ Click the image below to watch a video demo of the MCP Email Verify tool in acti
 ---
 ## **Setup**  
 
+### Installing via Smithery
+
+To install MCP-URL2SNAP for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@Abhi5h3k/MCP-URL2SNAP):
+
+```bash
+npx -y @smithery/cli install @Abhi5h3k/MCP-URL2SNAP --client claude
+```
+
+### Manual Installation
 **1. Clone the Repository**  
 ```
 git clone https://github.com/Abhi5h3k/MCP-URL2SNAP.git
