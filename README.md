@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/abhi5h3k-mcp-url2snap-badge.png)](https://mseep.ai/app/abhi5h3k-mcp-url2snap)
+
 # [MCP URL2SNAP](https://anthropic-mcp.hashnode.dev/model-context-protocol-mcp-a-beginners-guide-to-the-future-of-ai-communication) 🚀🤖
 
 A lightweight **Model Context Protocol (MCP)** server that enables your LLM to capture screenshots of any specified URL and return only the access URL for the captured image. This tool simplifies the process of generating and sharing webpage snapshots, making it perfect for integrating visual capture capabilities into AI applications like Claude Desktop or automation workflows.
